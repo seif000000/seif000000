@@ -19,14 +19,6 @@
   </a>
 </p>
 
----
-
-- 👨‍💻 As an Multimedia Software, I'm computer science student at Helwan computer science.
-- I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with **Web Development** and **Desktop Applications**.
-
-
----
 
 - 👨‍💻 As an Multimedia Software, I'm computer science student at Helwan computer science.
 - I'm constantly learning and exploring new technologies to improve my skills.
